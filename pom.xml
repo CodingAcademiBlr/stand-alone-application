@@ -8,11 +8,11 @@
 	<packaging>jar</packaging>
 
 	<name>maven-standalone-application</name>
-	<url>http://mithuntechnologies.com</url>
+	<url>https://codingacademi.com/</url>
 
 	<organization>
-		<name>Mithun Technologies</name>
-		<url>http://mithuntechnologies.com/</url>
+		<name>Coding Academi</name>
+		<url>https://codingacademi.com//</url>
 	</organization>
 	
 	<description>Maven Standalone Application</description>
@@ -42,10 +42,10 @@
 		mvn scm:update -->
 	<!--
 	<scm>
-		<connection>scm:git:https://github.com/MithunTechnologiesDevOps/maven-standalone-application</connection>
-		<developerConnection>scm:git:https://github.com/MithunTechnologiesDevOps/maven-standalone-application</developerConnection>
+		<connection>scm:git:https://github.com/CodingAcademiBlr/stand-alone-application.git</connection>
+		<developerConnection>scm:git:https://github.com/CodingAcademiBlr/stand-alone-application.git</developerConnection>
 		<tag>HEAD</tag>
-		<url>https://github.com/MithunTechnologiesDevOps/maven-standalone-application</url>
+		<url>https://github.com/CodingAcademiBlr/stand-alone-application.git</url>
 	</scm>
 
 	<issueManagement>
